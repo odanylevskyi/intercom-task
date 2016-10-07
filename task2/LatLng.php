@@ -71,7 +71,7 @@ class LatLng
     }
 
     /**
-     * @param float $value sets the longitude
+     * @param integer $value sets the radius
      */
     public function setRadius($value)
     {
